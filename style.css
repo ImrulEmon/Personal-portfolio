@@ -43,6 +43,12 @@
 .bio-para{
     margin-right: 20%;
 }
+.work{
+    background-image: url("images/latest-work-bg.png");
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 .work h2{
     text-align: center;
 }
@@ -54,8 +60,4 @@
 }
 .work-project img{
     width: 100%;
-}
-.img1{
-    position: right;
-    padding-left: 5%;
 }
