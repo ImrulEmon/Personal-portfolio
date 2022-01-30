@@ -1,3 +1,4 @@
+
 .color-highlight{
     color: orangered;
 }
@@ -13,7 +14,7 @@
    background-size: contain;
 }
 .half-width img{
-    width: 60%;
+    width: 70%;
     padding-top: 20%;
     
 }
@@ -28,12 +29,17 @@
     padding: 10px 20px;
     border-radius: 5px;
 }
+
+.biography-banner{
+    background-image: url("images/biography-bg.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 .half-width p{
     text-align: justify;
 }
-.biography-banner{
-    background-image: url("images/biography-bg.png");
-    height: 90vh;
-    background-repeat: no-repeat;
-    background-size: contain;
+
+.bio-para{
+    margin-right: 20%;
 }
