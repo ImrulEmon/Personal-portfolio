@@ -3,12 +3,21 @@
 }
 .half-width{
     margin-left: 10%;
-    float: left;
+    float:left;
     width: 40%;
+}
+.top-banner{
+   background-image: url("images/header-bg.png");
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-size: contain;
 }
 .half-width img{
     width: 80%;
-    margin-top: 5%;
+    margin-top: 20%;
+}
+.half-width h2{
+    padding-top: 40%;
 }
 .link-button{
     text-decoration: none;
@@ -17,4 +26,13 @@
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
+}
+.half-width p{
+    text-align: justify;
+}
+.biography-banner{
+    background-image: url("images/biography-bg.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
