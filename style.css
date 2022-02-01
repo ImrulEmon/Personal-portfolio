@@ -15,6 +15,13 @@
    background-repeat: no-repeat;
    background-size: contain;
 }
+.top-banner h1{
+    font-size: 60px;
+    margin-top: -20px;
+}
+.top-banner h2{
+    font-size: 25px;
+}
 .half-width img{
     width: 70%;
     padding-top: 20%;
@@ -67,6 +74,14 @@ footer{
     text-align: center;
     background-image: url("images/footer-bg.png");
     height: 100vh;
+}
+footer h4{
+    margin-top: 5%;
+}
+.alias{
+    font-size: 12px;
+    color: gray;
+    margin-bottom: 3%;
 }
 .contact{
     text-align: center;
